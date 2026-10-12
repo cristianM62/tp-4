@@ -1,0 +1,8 @@
+*.bak
+*.trn
+*.mdf
+*.ldf
+*.env
+.env*
+*.user
+*.suo
